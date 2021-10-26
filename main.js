@@ -2,7 +2,7 @@ const linksSocialMedia = {
   github: 'jorgemendesjr',
   instagram: 'jorgemendesjr',
   youtube: 'jorgemendesjr',
-  facebook: 'jorgemendesjr',
+  facebook: 'jorgemendesjr89',
   twitter: 'jorgemendesjr'
 }
 
